@@ -10,7 +10,7 @@ setup(
     license='GPL2',
     keywords='hdf5 h5py',
     url='https://github.com/INM-6/h5py_wrapper',
-    packages=['h5py_wrapper', 'tests'],
+    packages=['h5py_wrapper'],
     python_requires='>=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*, !=3.4.*, <4',
     install_requires=['h5py', 'pytest-runner', 'future'],
     tests_require=['pytest'],
