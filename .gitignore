@@ -2,3 +2,5 @@
 *.h5
 *.cache
 *__pycache__
+
+**egg-info**
