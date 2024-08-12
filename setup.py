@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='h5py_wrapper',
-    version='1.1.0',
+    version='2.0.0',
     author='Maximilian Schmidt, Jakob Jordan',
     author_email='max.schmidt@fz-juelich.de',
     description=('A wrapper to conveniently store nested Python dictionaries in hdf5 files.'),
